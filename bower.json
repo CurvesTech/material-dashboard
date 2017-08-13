@@ -1,0 +1,23 @@
+{
+  "name": "material-dashboard",
+  "homepage": "https://github.com/CurvesTech/material-dashboard",
+  "authors": [
+    "Mubashar Abbas <mubashir.abbas@outlook.com>"
+  ],
+  "description": "material dashboard by creative tim",
+  "main": "",
+  "keywords": [
+    "material",
+    "dashboard",
+    "template",
+    "theme"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
